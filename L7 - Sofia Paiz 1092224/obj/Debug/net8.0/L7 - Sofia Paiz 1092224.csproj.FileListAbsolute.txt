@@ -1,0 +1,14 @@
+C:\Users\sofia\L7 - Sofia Paiz 1092224\bin\Debug\net8.0\L7 - Sofia Paiz 1092224.exe
+C:\Users\sofia\L7 - Sofia Paiz 1092224\bin\Debug\net8.0\L7 - Sofia Paiz 1092224.deps.json
+C:\Users\sofia\L7 - Sofia Paiz 1092224\bin\Debug\net8.0\L7 - Sofia Paiz 1092224.runtimeconfig.json
+C:\Users\sofia\L7 - Sofia Paiz 1092224\bin\Debug\net8.0\L7 - Sofia Paiz 1092224.dll
+C:\Users\sofia\L7 - Sofia Paiz 1092224\bin\Debug\net8.0\L7 - Sofia Paiz 1092224.pdb
+C:\Users\sofia\L7 - Sofia Paiz 1092224\obj\Debug\net8.0\L7 - Sofia Paiz 1092224.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\L7 - Sofia Paiz 1092224\obj\Debug\net8.0\L7 - Sofia Paiz 1092224.AssemblyInfoInputs.cache
+C:\Users\sofia\L7 - Sofia Paiz 1092224\obj\Debug\net8.0\L7 - Sofia Paiz 1092224.AssemblyInfo.cs
+C:\Users\sofia\L7 - Sofia Paiz 1092224\obj\Debug\net8.0\L7 - Sofia Paiz 1092224.csproj.CoreCompileInputs.cache
+C:\Users\sofia\L7 - Sofia Paiz 1092224\obj\Debug\net8.0\L7 - Sofia Paiz 1092224.dll
+C:\Users\sofia\L7 - Sofia Paiz 1092224\obj\Debug\net8.0\refint\L7 - Sofia Paiz 1092224.dll
+C:\Users\sofia\L7 - Sofia Paiz 1092224\obj\Debug\net8.0\L7 - Sofia Paiz 1092224.pdb
+C:\Users\sofia\L7 - Sofia Paiz 1092224\obj\Debug\net8.0\L7 - Sofia Paiz 1092224.genruntimeconfig.cache
+C:\Users\sofia\L7 - Sofia Paiz 1092224\obj\Debug\net8.0\ref\L7 - Sofia Paiz 1092224.dll
